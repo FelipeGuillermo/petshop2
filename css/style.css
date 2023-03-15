@@ -1,0 +1,301 @@
+header {color: white;
+    background-color: black;
+    border: solid black;
+    padding: 5px 0px 10px 50px;
+    font-size: 13px;
+    width: 95.5%;
+    height: 10px;
+    
+
+}
+
+.bottomheader {
+    font-size: 20px;
+    border: solid 1px #F0A83E;
+    background-color: #F0A83E;
+    margin: 3px 0px 0px -53px;
+    padding: 0px 0px 0px 30px;
+    width: 104.5%;
+    height: 100px; 
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-sizing: border-box;
+}
+
+.main {
+    margin: 100px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    width: 100%;
+    height: 400px;
+    background-image: url(/img/bowl-and-pet-daities-on-green-background\ 1.png);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    box-sizing: border-box;
+}
+.bienvenida  {
+    border-radius: 7px;
+    font-size: 40px;
+    color: #3C2313;
+    background-color: #ffffff;   
+    margin:100px 10px 0px 0px;
+    border: solid #ffffff;
+    padding: 10px 10px 10px 1
+    0px;
+}
+
+.comentario {
+    font-size: 20px;
+    color: #3C2313;
+    margin: 5px 100px 5px 0px;
+    padding: 10px 10px 10px 10px;
+}
+
+.boton {
+    border-radius: 7px;
+    font-size: 15px;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #F0A83E;
+    border: solid 1px #F0A83E;
+    padding: 20px 30px 20px 30px;
+    margin: 0px 130px 0px 0px;
+}
+
+.middle {
+    color: #3C2313;
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.h1 {
+    font-size: 45px;
+}
+
+.middlenav {
+    color: #6666;
+    margin: -50px 0px 0px 0px;
+    width: 250px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.fotos {
+    
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.topnav {
+    padding: 0px 50px 0px 0px;
+    position: relative;
+    bottom: 10px;
+    width: 100px;
+    height: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.secondnav {
+    display: flex;
+    justify-content: center;
+    width: 500px;
+    margin: 0%;
+    padding: 0%;
+}
+
+.print {
+    margin: 30px 0px 0px 0px;
+}
+
+.contacto {
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+}
+
+.nombre {
+    margin: 0px 0px 10px 0px;
+    border-radius: 50px;
+    padding: 10px 20px 10px 20px;
+    color: #ffffff;
+    background-color: #3C2313;
+    width: 400px;
+}
+
+.correo {
+    border-radius: 50px;
+    padding: 10px 20px 10px 20px;
+    color: #ffffff;
+    background-color: #3C2313;
+    width: 400px;
+}
+
+.telefono {
+    margin: 10px;
+    border-radius: 50px;
+    padding: 10px 20px 10px 20px;
+    color: #ffffff;
+    background-color: #3C2313;
+    width: 400px;
+}
+
+.botones {
+    
+    display: flex;
+    justify-content: center;
+}
+
+.reset {
+    border-radius: 50px;
+    padding: 10px 30px 10px 30px;
+    
+    background-color: #6666;
+}
+
+.enviar {
+    border-radius: 50px;
+    padding: 10px 30px 10px 30px;
+    background-color: #F0A83E;
+    
+}
+
+.coso {
+    
+    font-size: 25px;
+    color: #ffffff;
+    width: 300px;
+    display: flex;
+    justify-content: space-around;
+}
+
+h4 {
+    color: #3C2313;
+    font-size: 25px;
+}
+
+html {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: lighter;
+}
+
+.topfooter {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    color: #ffffff;
+    background-color: #F0A83E;
+    width: 100%;
+    height: 80px;
+    padding: 0px 0px 0px 20px;
+}
+
+.lefttopfooter {
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+
+}
+
+.rightfooter {
+    display: flex;
+    align-items: center;
+}
+
+.suscribe {
+    padding-left: 20px;
+}
+
+.ingresatucorreo {
+    margin-right: 10px;
+    border-radius: 50px;
+    width: 300px;
+    background-color: #ffffff;
+    color: #6666;
+    padding: 10px 10px 10px 10px;
+}
+
+.suscribirme {
+    background-color: #3C2313;
+    border-radius: 50px;
+    padding: 10px 10px 10px 10px;
+    margin-right: 50px;
+}
+
+.datospersonales {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 20px 20px 70px;
+    width: 100%;
+    height: 300px;
+    background-color: #3C2313;
+}
+
+.localidad {
+    color: #ffffff;
+    display: flex;
+    padding: 0px 0px 30px 0px;
+}
+
+.telefono1 {
+    color: #ffffff;
+display: flex;
+padding: 0px 0px 30px 0px;
+
+}
+
+.correoele {
+    color: #ffffff;
+    display: flex;
+    padding: 0px 0px 30px 0px;
+}
+
+li {
+    color: #6666;
+    list-style-type: none;
+}
+
+.leftbottomfooter {
+    display: flex;
+    flex-direction: column;
+}
+
+.rightbottomfooter {
+    color: #ffffff;
+    display: flex;
+    position: relative;
+    left: 850px;
+    bottom: 170px;
+
+}
+
+footer {
+    background-color: black;
+    color: #ffffff;
+}
+
+.catdog {
+    color: #3C2313
+}
+
+.dogcat {
+color: #F0A83E;
+}
+
